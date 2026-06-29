@@ -13,6 +13,17 @@ I use AI heavily, but I treat it as engineering leverage: scope the work, build 
   <a href="https://x.com/JeffKazzee"><img alt="X" src="https://img.shields.io/badge/X-@JeffKazzee-000000?style=flat-square"></a>
 </p>
 
+## Start Here
+
+| Link | What to look for |
+| --- | --- |
+| [**Portfolio**](https://jeffkazzee.dev) | Public project writeups, live surfaces, and the broader story of what I build. |
+| [**Vivary**](https://github.com/vivary-dev/vivary) | My main systems project: typed memory, workspace state, review gates, graph search, and agent coordination. |
+| [**Obscura**](https://github.com/Jeff-Kazzee/obscura) | Local-first Electron product work: AI media workflows, cost visibility, SQLite, packaging, and release surfaces. |
+| [**Open World Factbook**](https://github.com/Jeff-Kazzee/open-world-factbook) | Data/product execution: an open country and territory database with a public web surface. |
+| [**Writing**](https://jeffkazzee.substack.com) | Practical notes on building with AI, agent workflows, and turning messy work into durable systems. |
+| [**Contact**](https://github.com/Jeff-Kazzee) | Open to software engineering, AI-enabled internal tools, agent operations systems, and docs-heavy product work. |
+
 ## What I Build
 
 - **Agentic operations systems:** structured memory, visible state, reusable skills, human approval gates, and verification loops.
