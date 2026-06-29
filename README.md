@@ -1,5 +1,7 @@
 # Jeff Kazzee
 
+![Jeff Kazzee - software engineer for agentic operations](./assets/profile-hero.svg)
+
 **Software engineer focused on agentic operations, local-first tools, and practical AI systems**
 
 I build durable software around messy work: internal tools, typed knowledge systems, local-first products, and agent workflows that keep state, expose decisions, and leave proof behind.
