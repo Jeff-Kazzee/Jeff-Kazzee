@@ -1,31 +1,31 @@
 # Jeff Kazzee
 
-**AI systems builder | agent-workspace designer | local-first product prototyper**
+**Software engineer focused on agentic operations, local-first tools, and practical AI systems**
 
-I build practical AI tools that leave proof behind: working apps, inspectable files, typed knowledge systems, docs, tests, release notes, and public demos.
+I build durable software around messy work: internal tools, typed knowledge systems, local-first products, and agent workflows that keep state, expose decisions, and leave proof behind.
 
-My strongest lane is turning messy AI-assisted work into durable systems: agents that know where to look, projects that keep their own state, workflows that can be repeated, and products that stay useful after the first impressive demo.
+I use AI heavily, but I treat it as engineering leverage: scope the work, build the artifact, verify it, document it, and make the next run easier.
 
 <p>
   <a href="https://jeffkazzee.dev"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-jeffkazzee.dev-111111?style=flat-square"></a>
-  <a href="https://github.com/vivary-dev/vivary"><img alt="Vivary" src="https://img.shields.io/badge/Flagship-Vivary-1f9d72?style=flat-square"></a>
+  <a href="https://github.com/vivary-dev/vivary"><img alt="Vivary" src="https://img.shields.io/badge/Project-Vivary-1f9d72?style=flat-square"></a>
   <a href="https://jeffkazzee.substack.com"><img alt="Writing" src="https://img.shields.io/badge/Writing-Substack-ff6719?style=flat-square"></a>
   <a href="https://x.com/JeffKazzee"><img alt="X" src="https://img.shields.io/badge/X-@JeffKazzee-000000?style=flat-square"></a>
 </p>
 
 ## What I Build
 
-- **Agent-native workspaces:** structured memory, visible state, reusable skills, human approval gates, and verification loops.
-- **Local-first AI products:** desktop and web apps that keep files, costs, prompts, outputs, and history inspectable.
-- **Typed Markdown systems:** knowledge bases with schema checks, graph structure, source/current-truth separation, and CI-friendly validation.
-- **Public resource sites:** practical docs, searchable field guides, beginner onboarding, and proof-first technical writing.
-- **AI-assisted delivery systems:** planning, testing, implementation, review, learning loops, release hygiene, and repo cleanup.
+- **Agentic operations systems:** structured memory, visible state, reusable skills, human approval gates, and verification loops.
+- **Local-first products:** desktop and web apps that keep files, costs, prompts, outputs, and history inspectable.
+- **Typed knowledge systems:** Markdown knowledge bases with schema checks, graph structure, source/current-truth separation, and CI-friendly validation.
+- **Technical docs and resource sites:** practical guides, searchable field resources, beginner onboarding, and proof-first writing.
+- **Delivery systems:** planning, testing, implementation, review, learning loops, release hygiene, and repo cleanup.
 
 ## Selected Work
 
 | Project | Proof of capability |
 | --- | --- |
-| [**Vivary**](https://github.com/vivary-dev/vivary) | Flagship AI-agent workspace framework. Ships Python and npm surfaces for typed memory, project state, reusable skills, review gates, graph search, coordination, docs, CI, and release tracking. |
+| [**Vivary**](https://github.com/vivary-dev/vivary) | Agent-workspace framework. Ships Python and npm surfaces for typed memory, project state, reusable skills, review gates, graph search, coordination, docs, CI, and release tracking. |
 | [**Obscura**](https://github.com/Jeff-Kazzee/obscura) | Local-first Electron media studio for AI creative work: chat, prompts, model/cost visibility, image workflows, gallery lineage, local SQLite, and alpha release packaging. |
 | [**Open World Factbook**](https://github.com/Jeff-Kazzee/open-world-factbook) | Open-source country and territory database covering 262 countries and territories, with a public web surface at [worldfactbook.xyz](https://worldfactbook.xyz). |
 | [**sdlc-skills**](https://github.com/Jeff-Kazzee/sdlc-skills) | Installable agent skills that encode the software-development lifecycle: plan, design, test, implement, review, and learn. Built for disciplined AI-assisted engineering across agent runtimes. |
@@ -41,7 +41,7 @@ My strongest lane is turning messy AI-assisted work into durable systems: agents
 ## What I Bring To A Team
 
 - I can take an ambiguous product idea and turn it into a scoped build plan, working artifact, documentation, and verification path.
-- I understand AI agents as systems, not magic: context boundaries, instructions, skills, memory, source truth, review gates, and failure recovery.
+- I understand agent workflows as software systems: context boundaries, instructions, skills, memory, source truth, review gates, and failure recovery.
 - I write for humans and agents at the same time: READMEs, specs, runbooks, prompts, release docs, onboarding flows, and durable project state.
 - I care about inspectability: local files, visible costs, provenance, plain Markdown, testable contracts, and small tools people can actually understand.
 - I ship across the stack: TypeScript, Python, Astro, React, Next.js, Electron, SQLite, YAML, Markdown/MDX, GitHub Actions, Vercel, and Cloudflare.
@@ -50,8 +50,8 @@ My strongest lane is turning messy AI-assisted work into durable systems: agents
 
 I am most useful in roles or scoped projects involving:
 
-- AI product prototyping and internal tools
-- Agent workflow design and implementation
+- AI-enabled product prototyping and internal tools
+- Agentic workflow and operations design
 - Developer-experience and documentation-heavy engineering
 - Local-first desktop or web apps
 - Knowledge-base, second-brain, or typed-document systems
