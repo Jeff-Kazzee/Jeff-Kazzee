@@ -1,63 +1,69 @@
 # Jeff Kazzee
 
-I'm a self-taught builder working on local-first AI tools, agent workspaces, open data, and practical web systems. I'm interested in tools people can inspect, run, modify, and actually use — not just announce.
+**AI systems builder | agent-workspace designer | local-first product prototyper**
 
-I build with AI agents, but I don't treat them like magic. The useful part is the loop: scope the work, build the artifact, verify it, document it, and keep the proof visible.
+I build practical AI tools that leave proof behind: working apps, inspectable files, typed knowledge systems, docs, tests, release notes, and public demos.
 
-## What I'm building
+My strongest lane is turning messy AI-assisted work into durable systems: agents that know where to look, projects that keep their own state, workflows that can be repeated, and products that stay useful after the first impressive demo.
 
-| Project | What it is |
-|---|---|
-| [**Vivary**](https://github.com/vivary-dev/vivary) | Typed memory, search, and gates for AI-agent workspaces. Scaffold plain-Markdown project memory, state, skills, and review gates in one command. |
-| [**Obscura**](https://github.com/Jeff-Kazzee/obscura) | Early-alpha local-first desktop media studio for AI asset work. |
-| [**Open World Factbook**](https://github.com/Jeff-Kazzee/open-world-factbook) | Open-source country database covering 262 countries and territories. Free forever. |
-| [**sdlc-skills**](https://github.com/Jeff-Kazzee/sdlc-skills) | Installable agent skills for disciplined AI-assisted software work. |
-| [**Zo Computer 101**](https://github.com/The-Little-AI-Company/zo-computer-101) | Searchable field-guide site for Zo Computer users. |
-| [**Zo Cookbook**](https://github.com/The-Little-AI-Company/zo-cookbook-app) | 1,232 app, space, automation & prompt recipes for Zo Computer. |
-| [**flywheel**](https://github.com/Jeff-Kazzee/flywheel) | Bootstrap, maintain, and continuously improve a coding-agent workspace. For Claude Code + Codex CLI. |
+<p>
+  <a href="https://jeffkazzee.dev"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-jeffkazzee.dev-111111?style=flat-square"></a>
+  <a href="https://github.com/vivary-dev/vivary"><img alt="Vivary" src="https://img.shields.io/badge/Flagship-Vivary-1f9d72?style=flat-square"></a>
+  <a href="https://jeffkazzee.substack.com"><img alt="Writing" src="https://img.shields.io/badge/Writing-Substack-ff6719?style=flat-square"></a>
+  <a href="https://x.com/JeffKazzee"><img alt="X" src="https://img.shields.io/badge/X-@JeffKazzee-000000?style=flat-square"></a>
+</p>
 
-## What I'm good at
+## What I Build
 
-- Small AI-assisted web tools
-- Agent-workspace and second-brain systems
-- Docs-heavy prototypes
-- README and repo cleanup
-- Workflow libraries
-- Practical technical writing
-- Public resource sites
-- Turning messy project ideas into usable artifacts
+- **Agent-native workspaces:** structured memory, visible state, reusable skills, human approval gates, and verification loops.
+- **Local-first AI products:** desktop and web apps that keep files, costs, prompts, outputs, and history inspectable.
+- **Typed Markdown systems:** knowledge bases with schema checks, graph structure, source/current-truth separation, and CI-friendly validation.
+- **Public resource sites:** practical docs, searchable field guides, beginner onboarding, and proof-first technical writing.
+- **AI-assisted delivery systems:** planning, testing, implementation, review, learning loops, release hygiene, and repo cleanup.
 
-## Current learning focus
+## Selected Work
 
-- Python tooling and packaging
-- TypeScript web apps
-- Local-first desktop apps (Electron)
-- Knowledge graphs and typed Markdown
-- Better testing and verification loops
-- AI agents that leave useful project state behind
+| Project | Proof of capability |
+| --- | --- |
+| [**Vivary**](https://github.com/vivary-dev/vivary) | Flagship AI-agent workspace framework. Ships Python and npm surfaces for typed memory, project state, reusable skills, review gates, graph search, coordination, docs, CI, and release tracking. |
+| [**Obscura**](https://github.com/Jeff-Kazzee/obscura) | Local-first Electron media studio for AI creative work: chat, prompts, model/cost visibility, image workflows, gallery lineage, local SQLite, and alpha release packaging. |
+| [**Open World Factbook**](https://github.com/Jeff-Kazzee/open-world-factbook) | Open-source country and territory database covering 262 countries and territories, with a public web surface at [worldfactbook.xyz](https://worldfactbook.xyz). |
+| [**sdlc-skills**](https://github.com/Jeff-Kazzee/sdlc-skills) | Installable agent skills that encode the software-development lifecycle: plan, design, test, implement, review, and learn. Built for disciplined AI-assisted engineering across agent runtimes. |
+| [**Throughline**](https://github.com/Jeff-Kazzee/throughline) | Tiny Agent OS for keeping AI work visible, grounded, cheap to load, and human-led through a simple `Ask -> retrieve -> act -> verify -> learn -> gate` loop. |
+| [**Braincheck**](https://github.com/Jeff-Kazzee/braincheck) | Zero-dependency Python typechecker for Markdown knowledge bases. Validates YAML frontmatter schemas, supports safe autofix, JSON output, and CI-friendly exit codes. |
+| [**Loam**](https://github.com/Jeff-Kazzee/loam) | Folder-as-type knowledge layer for Markdown. Derives metadata from path, git, and headings so frontmatter carries only irreducible signal. |
+| [**Minimal Zo Brain**](https://github.com/Jeff-Kazzee/zo-computer-second-brain) | Specification-first setup prompt that interviews a user and creates a right-sized AI-readable second brain around real work, relationships, sources, tasks, and approval boundaries. |
+| [**AI Starter Skill Pack**](https://github.com/Jeff-Kazzee/ai-starter-skill-pack) | Beginner-safe agent skills for AI onboarding, prompt debugging, learning paths, project ideas, and honest career proof. |
+| [**Career Coach**](https://github.com/Jeff-Kazzee/career-coach) | Evidence-first career operating system with agent skill instructions, Obsidian-friendly templates, scorecard tooling, and tests. |
+| [**Dreaming**](https://github.com/Jeff-Kazzee/dreaming) / [**Flywheel**](https://github.com/Jeff-Kazzee/flywheel) | Background pattern-finding and workspace maintenance skills for Zo, Claude Code, Codex, and local multi-agent workflows. |
+| [**jeffkazzee.dev**](https://github.com/Jeff-Kazzee/jeffkazzee.dev) | Astro portfolio and writing surface for public projects, proof artifacts, and Substack mirrors. |
 
-## Stack
+## What I Bring To A Team
 
-Python, TypeScript, Astro, React, Next.js, Electron, SQLite, Markdown / MDX, YAML, GitHub Actions, Cloudflare / Vercel, and whatever small tool gets the job done.
+- I can take an ambiguous product idea and turn it into a scoped build plan, working artifact, documentation, and verification path.
+- I understand AI agents as systems, not magic: context boundaries, instructions, skills, memory, source truth, review gates, and failure recovery.
+- I write for humans and agents at the same time: READMEs, specs, runbooks, prompts, release docs, onboarding flows, and durable project state.
+- I care about inspectability: local files, visible costs, provenance, plain Markdown, testable contracts, and small tools people can actually understand.
+- I ship across the stack: TypeScript, Python, Astro, React, Next.js, Electron, SQLite, YAML, Markdown/MDX, GitHub Actions, Vercel, and Cloudflare.
 
-## Open to scoped work
+## Work I Am Looking For
 
-I'm open to small, clear projects where the output is concrete:
+I am most useful in roles or scoped projects involving:
 
-- landing pages for useful tools
-- internal tools and dashboards
-- README / repo cleanup
-- docs and technical writing
-- AI workflow prototypes
-- Zo Computer workflows and resources
-- QA and polish passes
-- small web apps with strong documentation
+- AI product prototyping and internal tools
+- Agent workflow design and implementation
+- Developer-experience and documentation-heavy engineering
+- Local-first desktop or web apps
+- Knowledge-base, second-brain, or typed-document systems
+- Public technical content backed by working software
+- Repo rescue: README, docs, tests, release surfaces, and credibility polish
 
-I'm not selling fake seniority. I'm a self-taught builder who ships, documents, and keeps learning in public.
+I am self-taught, fast-moving, and proof-first. The throughline across my work is simple: build the thing, verify the thing, document the thing, and make the next session easier than the last one.
 
 ## Links
 
-- **Site:** [jeffkazzee.dev](https://jeffkazzee.dev)
-- **X:** [@JeffKazzee](https://x.com/JeffKazzee)
+- **Portfolio:** [jeffkazzee.dev](https://jeffkazzee.dev)
+- **GitHub:** [github.com/Jeff-Kazzee](https://github.com/Jeff-Kazzee)
 - **Substack:** [jeffkazzee.substack.com](https://jeffkazzee.substack.com)
+- **X:** [@JeffKazzee](https://x.com/JeffKazzee)
 - **Bluesky:** [@jeffkazzee.bsky.social](https://bsky.app/profile/jeffkazzee.bsky.social)
