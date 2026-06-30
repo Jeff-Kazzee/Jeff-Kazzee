@@ -1,6 +1,6 @@
 # Jeff Kazzee
 
-![Jeff Kazzee - software engineer for agentic operations](./assets/profile-hero.svg)
+[![Jeff Kazzee - software engineer for agentic operations](./assets/profile-hero.svg)](https://jeffkazzee.dev)
 
 **Software engineer focused on agentic operations, local-first tools, and practical AI systems**
 
