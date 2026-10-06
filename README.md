@@ -9,69 +9,38 @@ Building local-first tools for working with AI.
   <a href="https://x.com/JeffKazzee"><img alt="X: @JeffKazzee" src="https://img.shields.io/badge/X-@JeffKazzee-24292f?style=flat-square&amp;labelColor=161b22"></a>
 </p>
 
-I build durable software around messy work: internal tools, typed knowledge systems, local-first products, and agent workflows that keep state, expose decisions, and leave proof behind.
+## Projects
 
-I use AI heavily, but I treat it as engineering leverage: scope the work, build the artifact, verify it, document it, and make the next run easier.
+### [Vivary](https://github.com/vivary-dev/vivary)
 
-## Start Here
+I'm building a personal agent workspace that brings chat, project files, tools, and memory into one app, on a machine you control.
 
-| Link | What to look for |
-| --- | --- |
-| [**Portfolio**](https://jeffkazzee.dev) | Public project writeups, live surfaces, and the broader story of what I build. |
-| [**Vivary**](https://github.com/vivary-dev/vivary) | My main project: a personal agent workspace that brings chat, project files, tools, and memory into one app. In development. |
-| [**Open World Factbook**](https://github.com/Jeff-Kazzee/open-world-factbook) | Data/product execution: an open country and territory database with a public web surface. |
-| [**Writing**](https://jeffkazzee.substack.com) | Practical notes on building with AI, agent workflows, and turning messy work into durable systems. |
-| [**Contact**](https://github.com/Jeff-Kazzee) | Open to software engineering, AI-enabled internal tools, agent operations systems, and docs-heavy product work. |
+**In development.** The Windows desktop candidate is not a public release yet.
 
-## What I Build
+### [Open World Factbook](https://github.com/Jeff-Kazzee/open-world-factbook)
 
-- **Agentic operations systems:** structured memory, visible state, reusable skills, human approval gates, and verification loops.
-- **Local-first products:** desktop and web apps that keep files, costs, prompts, outputs, and history inspectable.
-- **Typed knowledge systems:** Markdown knowledge bases with schema checks, graph structure, source/current-truth separation, and CI-friendly validation.
-- **Technical docs and resource sites:** practical guides, searchable field resources, beginner onboarding, and proof-first writing.
-- **Delivery systems:** planning, testing, implementation, review, learning loops, release hygiene, and repo cleanup.
+A searchable country and territory database built from public-domain sources. Browse countries, capitals, and regions at [worldfactbook.xyz](https://worldfactbook.xyz).
 
-## Selected Work
+### [Braincheck](https://github.com/Jeff-Kazzee/braincheck)
 
-| Project | Proof of capability |
-| --- | --- |
-| [**Vivary**](https://github.com/vivary-dev/vivary) | A personal agent workspace in development. The tested Windows desktop candidate is not a public release; the original published CLI tools and package history remain available. |
-| [**Open World Factbook**](https://github.com/Jeff-Kazzee/open-world-factbook) | Open-source country and territory database covering 262 countries and territories, with a public web surface at [worldfactbook.xyz](https://worldfactbook.xyz). |
-| [**Throughline**](https://github.com/Jeff-Kazzee/throughline) | Tiny Agent OS for keeping AI work visible, grounded, cheap to load, and human-led through a simple `Ask -> retrieve -> act -> verify -> learn -> gate` loop. |
-| [**Braincheck**](https://github.com/Jeff-Kazzee/braincheck) | Zero-dependency Python typechecker for Markdown knowledge bases. Validates YAML frontmatter schemas, supports safe autofix, JSON output, and CI-friendly exit codes. |
-| [**Loam**](https://github.com/Jeff-Kazzee/loam) | Folder-as-type knowledge layer for Markdown. Derives metadata from path, git, and headings so frontmatter carries only irreducible signal. |
-| [**Minimal Zo Brain**](https://github.com/Jeff-Kazzee/zo-computer-second-brain) | Specification-first setup prompt that interviews a user and creates a right-sized AI-readable second brain around real work, relationships, sources, tasks, and approval boundaries. |
-| [**AI Starter Skill Pack**](https://github.com/Jeff-Kazzee/ai-starter-skill-pack) | Beginner-safe agent skills for AI onboarding, prompt debugging, learning paths, project ideas, and honest career proof. |
-| [**Career Coach**](https://github.com/Jeff-Kazzee/career-coach) | Evidence-first career operating system with agent skill instructions, Obsidian-friendly templates, scorecard tooling, and tests. |
-| [**Dreaming**](https://github.com/Jeff-Kazzee/dreaming) / [**Flywheel**](https://github.com/Jeff-Kazzee/flywheel) | Background pattern-finding and workspace maintenance skills for Zo, Claude Code, Codex, and local multi-agent workflows. |
-| [**jeffkazzee.dev**](https://github.com/Jeff-Kazzee/jeffkazzee.dev) | Astro portfolio and writing surface for public projects, proof artifacts, and Substack mirrors. |
+A Python checker for YAML frontmatter in Markdown files. Define the fields and types in a schema, then check a folder from the command line or CI. No third-party dependencies.
 
-## What I Bring To A Team
+### [Career Coach](https://github.com/Jeff-Kazzee/career-coach)
 
-- I can take an ambiguous product idea and turn it into a scoped build plan, working artifact, documentation, and verification path.
-- I understand agent workflows as software systems: context boundaries, instructions, skills, memory, source truth, review gates, and failure recovery.
-- I write for humans and agents at the same time: READMEs, specs, runbooks, prompts, release docs, onboarding flows, and durable project state.
-- I care about inspectability: local files, visible costs, provenance, plain Markdown, testable contracts, and small tools people can actually understand.
-- I ship across the stack: TypeScript, Python, Astro, React, Next.js, Electron, SQLite, YAML, Markdown/MDX, GitHub Actions, Vercel, and Cloudflare.
+Agent instructions, Obsidian-friendly templates, and a scorecard tool for job-search reviews, interview preparation, and tracking work.
 
-## Work I Am Looking For
+## More tools and experiments
 
-I am most useful in roles or scoped projects involving:
+- [Loam](https://github.com/Jeff-Kazzee/loam): derives document types and metadata from folders, filenames, and headings, so Markdown files need less frontmatter
+- [Throughline](https://github.com/Jeff-Kazzee/throughline): a small set of agent instructions for keeping project state visible and private context separate
+- [Minimal Zo Brain](https://github.com/Jeff-Kazzee/zo-computer-second-brain): a setup prompt that interviews you before creating a personal knowledge workspace on Zo Computer
+- [AI Starter Skill Pack](https://github.com/Jeff-Kazzee/ai-starter-skill-pack): five beginner skills for learning, fixing prompts, choosing projects, and turning practice into work you can show
+- [Dreaming](https://github.com/Jeff-Kazzee/dreaming): a Zo skill that looks across sessions for recurring mistakes, stale instructions, and broken workflows
+- [Flywheel](https://github.com/Jeff-Kazzee/flywheel): a skill for setting up and maintaining coding-agent workspaces
+- [jeffkazzee.dev](https://github.com/Jeff-Kazzee/jeffkazzee.dev): the source for my portfolio and writing site
 
-- AI-enabled product prototyping and internal tools
-- Agentic workflow and operations design
-- Developer-experience and documentation-heavy engineering
-- Local-first desktop or web apps
-- Knowledge-base, second-brain, or typed-document systems
-- Public technical content backed by working software
-- Repo rescue: README, docs, tests, release surfaces, and credibility polish
+## Work with me
 
-I am self-taught, fast-moving, and proof-first. The throughline across my work is simple: build the thing, verify the thing, document the thing, and make the next session easier than the last one.
+Have a project in mind? [Email me at jeffkazzee@gmail.com](mailto:jeffkazzee@gmail.com).
 
-## Links
-
-- **Portfolio:** [jeffkazzee.dev](https://jeffkazzee.dev)
-- **GitHub:** [github.com/Jeff-Kazzee](https://github.com/Jeff-Kazzee)
-- **Substack:** [jeffkazzee.substack.com](https://jeffkazzee.substack.com)
-- **X:** [@JeffKazzee](https://x.com/JeffKazzee)
-- **Bluesky:** [@jeffkazzee.bsky.social](https://bsky.app/profile/jeffkazzee.bsky.social)
+[Website](https://jeffkazzee.dev) · [Writing](https://jeffkazzee.substack.com) · [X](https://x.com/JeffKazzee) · [Bluesky](https://bsky.app/profile/jeffkazzee.bsky.social)
