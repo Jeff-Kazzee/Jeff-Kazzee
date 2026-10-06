@@ -1,19 +1,17 @@
 # Jeff Kazzee
 
-[![Jeff Kazzee - software engineer for agentic operations](./assets/profile-hero.svg)](https://jeffkazzee.dev)
+Building local-first tools for working with AI.
 
-**Software engineer focused on agentic operations, local-first tools, and practical AI systems**
+<p>
+  <a href="https://jeffkazzee.dev"><img alt="Portfolio: jeffkazzee.dev" src="https://img.shields.io/badge/Portfolio-jeffkazzee.dev-24292f?style=flat-square&amp;labelColor=161b22"></a>
+  <a href="https://github.com/vivary-dev/vivary"><img alt="Vivary: in development" src="https://img.shields.io/badge/Vivary-in_development-245b48?style=flat-square&amp;labelColor=161b22"></a>
+  <a href="https://jeffkazzee.substack.com"><img alt="Writing: Substack" src="https://img.shields.io/badge/Writing-Substack-24292f?style=flat-square&amp;labelColor=161b22"></a>
+  <a href="https://x.com/JeffKazzee"><img alt="X: @JeffKazzee" src="https://img.shields.io/badge/X-@JeffKazzee-24292f?style=flat-square&amp;labelColor=161b22"></a>
+</p>
 
 I build durable software around messy work: internal tools, typed knowledge systems, local-first products, and agent workflows that keep state, expose decisions, and leave proof behind.
 
 I use AI heavily, but I treat it as engineering leverage: scope the work, build the artifact, verify it, document it, and make the next run easier.
-
-<p>
-  <a href="https://jeffkazzee.dev"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-jeffkazzee.dev-111111?style=flat-square"></a>
-  <a href="https://github.com/vivary-dev/vivary"><img alt="Vivary" src="https://img.shields.io/badge/Project-Vivary-1f9d72?style=flat-square"></a>
-  <a href="https://jeffkazzee.substack.com"><img alt="Writing" src="https://img.shields.io/badge/Writing-Substack-ff6719?style=flat-square"></a>
-  <a href="https://x.com/JeffKazzee"><img alt="X" src="https://img.shields.io/badge/X-@JeffKazzee-000000?style=flat-square"></a>
-</p>
 
 ## Start Here
 
