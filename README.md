@@ -20,8 +20,7 @@ I use AI heavily, but I treat it as engineering leverage: scope the work, build 
 | Link | What to look for |
 | --- | --- |
 | [**Portfolio**](https://jeffkazzee.dev) | Public project writeups, live surfaces, and the broader story of what I build. |
-| [**Vivary**](https://github.com/vivary-dev/vivary) | My main systems project: typed memory, workspace state, review gates, graph search, and agent coordination. |
-| [**Obscura**](https://github.com/Jeff-Kazzee/obscura) | Local-first Electron product work: AI media workflows, cost visibility, SQLite, packaging, and release surfaces. |
+| [**Vivary**](https://github.com/vivary-dev/vivary) | My main project: a personal agent workspace that brings chat, project files, tools, and memory into one app. In development. |
 | [**Open World Factbook**](https://github.com/Jeff-Kazzee/open-world-factbook) | Data/product execution: an open country and territory database with a public web surface. |
 | [**Writing**](https://jeffkazzee.substack.com) | Practical notes on building with AI, agent workflows, and turning messy work into durable systems. |
 | [**Contact**](https://github.com/Jeff-Kazzee) | Open to software engineering, AI-enabled internal tools, agent operations systems, and docs-heavy product work. |
@@ -38,10 +37,8 @@ I use AI heavily, but I treat it as engineering leverage: scope the work, build 
 
 | Project | Proof of capability |
 | --- | --- |
-| [**Vivary**](https://github.com/vivary-dev/vivary) | Agent-workspace framework. Ships Python and npm surfaces for typed memory, project state, reusable skills, review gates, graph search, coordination, docs, CI, and release tracking. |
-| [**Obscura**](https://github.com/Jeff-Kazzee/obscura) | Local-first Electron media studio for AI creative work: chat, prompts, model/cost visibility, image workflows, gallery lineage, local SQLite, and alpha release packaging. |
+| [**Vivary**](https://github.com/vivary-dev/vivary) | A personal agent workspace in development. The tested Windows desktop candidate is not a public release; the original published CLI tools and package history remain available. |
 | [**Open World Factbook**](https://github.com/Jeff-Kazzee/open-world-factbook) | Open-source country and territory database covering 262 countries and territories, with a public web surface at [worldfactbook.xyz](https://worldfactbook.xyz). |
-| [**sdlc-skills**](https://github.com/Jeff-Kazzee/sdlc-skills) | Installable agent skills that encode the software-development lifecycle: plan, design, test, implement, review, and learn. Built for disciplined AI-assisted engineering across agent runtimes. |
 | [**Throughline**](https://github.com/Jeff-Kazzee/throughline) | Tiny Agent OS for keeping AI work visible, grounded, cheap to load, and human-led through a simple `Ask -> retrieve -> act -> verify -> learn -> gate` loop. |
 | [**Braincheck**](https://github.com/Jeff-Kazzee/braincheck) | Zero-dependency Python typechecker for Markdown knowledge bases. Validates YAML frontmatter schemas, supports safe autofix, JSON output, and CI-friendly exit codes. |
 | [**Loam**](https://github.com/Jeff-Kazzee/loam) | Folder-as-type knowledge layer for Markdown. Derives metadata from path, git, and headings so frontmatter carries only irreducible signal. |
